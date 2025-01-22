@@ -2,6 +2,8 @@
 
 A real-time physics simulation running on an ESP32 microcontroller that displays particle physics affected by real-world gravity measured through an accelerometer. The simulation features 500 particles that respond to the physical orientation of the device, creating an interactive and engaging visual experience.
 
+![Image](https://github.com/Divyanshu4fx/PhysicsBalls/blob/main/Images/Image2.jpg?raw=true)
+
 ## Features
 
 - Real-time physics simulation with 500 particles
